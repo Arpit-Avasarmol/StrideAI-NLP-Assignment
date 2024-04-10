@@ -3,7 +3,9 @@
 # Steps:
 
 Open the ipynb file in Google Colab 
+
 Import the QS.pdf dataset inside the Google colab 
+
 Then simply run all the cells
 
 # NOTE:
